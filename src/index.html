@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link href="styles/styles.css" rel="stylesheet" />
+        <meta charset="UTF-8" />
+        <title>Tone.js Synchronization Demo</title>
+    </head>
+    <body>
+        <h1>Tone.js Synchronization Demo</h1>
+        <span id="connecting-message">connecting the timing source please wait ...</span>
+        <button disabled id="player">start player</button>
+        <input disabled id="bpm" max="300" min="30" step="1" type="number" value="90" />
+        <p>
+            This demo is an adaptation of <a href="https://tonejs.github.io/examples/events">one of Tone.js' examples</a> that shows how it
+            can be synchronized across different browsers and devices by using a
+            <a href="https://github.com/chrisguttandin/timing-object">timing-object</a> and a
+            <a href="https://github.com/chrisguttandin/timing-provider">timing-provider</a>.
+        </p>
+        <script src="scripts/app.js"></script>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+button,
+h1,
+input,
+span {
+    position: relative;
+}
