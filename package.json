@@ -15,7 +15,7 @@
     },
     "description": "A website to demo how to connect Tone.js to a Timing Object.",
     "devDependencies": {
-        "@babel/core": "^7.23.6",
+        "@babel/core": "^7.23.7",
         "@babel/preset-env": "^7.23.6",
         "@commitlint/cli": "^17.8.0",
         "@commitlint/config-angular": "^17.8.0",
