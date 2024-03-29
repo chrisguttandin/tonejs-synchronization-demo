@@ -10,7 +10,7 @@
     },
     "dependencies": {
         "timing-object": "^3.1.74",
-        "timing-provider": "^7.1.9",
+        "timing-provider": "^7.1.12",
         "tone": "^14.7.77"
     },
     "description": "A website to demo how to connect Tone.js to a Timing Object.",
